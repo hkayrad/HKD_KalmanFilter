@@ -13,7 +13,7 @@ file in a relevant directory) where a recipient would be likely to look
 for such a notice.
 *************************************************************************/
 
-#include "HKDKalmanFilter.h"
+#include "HKD_KalmanFilter.h"
 #include <Arduino.h>
 
 KalmanFilter::KalmanFilter() {
